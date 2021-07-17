@@ -3,4 +3,4 @@ In this repo, i used the nature inspired particle swarm optimization algorithm t
 
 The PSO flow diagram for better understanding.
 
-![](images/pso.png)
+
